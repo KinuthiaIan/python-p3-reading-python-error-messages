@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+# Solving the NameError 
+print("hello_world")
